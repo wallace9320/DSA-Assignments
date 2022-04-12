@@ -1,0 +1,5 @@
+*.class
+edu
+*.txt
+.vscode
+KdTreeVisualizer.java
